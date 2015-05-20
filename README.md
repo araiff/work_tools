@@ -1,2 +1,2 @@
 # work_tools
-Tools for use at current job
+python tools for use at current job as database analyst at dow chemical
